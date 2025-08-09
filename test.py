@@ -1,1 +1,1 @@
-rint("hello sumit!! v8")
+print("hello sumit!! v8")
